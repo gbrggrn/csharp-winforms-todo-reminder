@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#A6_WF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.2.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.2+09d96a7aebaab468050bb3a092a22f1354ac6bc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.2+192fbc8cb7812df7b90970b6deef3ee0d2cb2a48")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#A6_WF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("To Do Reminder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.2.0")]
